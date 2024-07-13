@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # Rick_and_Morty
+https://rick-and-morty-phi-gilt.vercel.app/
+vercel link
 using React and Tailwind Css 
 =======
 # Getting Started with Create React App
